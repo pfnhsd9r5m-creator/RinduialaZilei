@@ -1,0 +1,2 @@
+# RinduialaZilei
+Aplicatie ortodoxa
